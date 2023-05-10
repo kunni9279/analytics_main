@@ -1,0 +1,488 @@
+introduction to data analytics iit madras-nptel not swayam
+05/12/22
+
+week1 course overview completed... descriptive statistics-graphical approach
+
+06/12
+
+descriptive statistics measures of dispersion started
+
+07/12
+week1 measures of dispersion 8min
+
+08/12
+week2 random variables and prob distribution ..finished
+
+09/12
+week2 probability distrbution cont\d 1 one ..finished
+
+10/12
+ week 2 ..inferential statistics..motivation.. finished
+
+11/12
+week2 completed
+week3 two sample test 25min
+
+12/12
+week3 type1 and type2 errors finished
+
+13/12
+week3 short intro to regression 20min
+stop analytics..switch to basic r or python
+
+14/12
+
+--------------------------------
+data analytics using python and sql:10.5hrs
+----------------------------------
+18/12
+5min
+
+20/12
+numpy-supports n-dimensional arrarys,provides numerical computing tools
+pandas-useful for missing data,perform mathematical ops,manipulate data
+matplotlib for data visualisation
+1hr
+
+try new video:using sql with python
+
+21/12
+master using sql with python:lesson 1 ,15min-youtube
+use google chrome instead of firefox
+
+-----------------------------------------------
+data science using R edx
+------------------------------------------------
+
+
+01/01/2023
+
+started 1.2 R basics
+
+03/01/23
+
+finished 1.2 R basics- functions- video
+
+04/01/23
+
+
+just started 1.3 data types
+
+05/01
+
+started section 2.1 vectors. Ignore datacamp. It is where the code is written.
+
+06/01
+2.1 vectors datacamp assessment-started coercion
+
+07/01
+finished assessment3. 2.1.... vectors datacamp assessment
+started chapter 4 : sorting(section 2.2)
+
+08/01
+started 2.2 sorting datacamp assessment mutate
+plannng to start analytics edge Edx
+
+
+09/01
+new video edx:analytics edge
+
+unit 1: video 4..loading data files
+
+10/01
+unit 1: working with data, an introduction to r: video 6... finished
+start youtube
+
+11/01
+youtube
+finished 1.4.4 R1 understanding food-video 3:data analysis
+
+16/01
+
+2.2.9 video 5 finished
+
+17/01
+model4=lm(Price~HarvestRain+WinterRain+AGST+Age,data=wine)
+predictest=predict(model4,newdata = winetest)
+
+SSE=sum((winetest$Price-predictest)^2)
+SST=sum((winetest$Price-mean(wine$Price))^2)
+
+1-(SSE/SST)
+
+
+finished 2.3.7 video 4
+
+18/01
+finished 2.4.5 R2 video4
+
+19/01
+
+
+fnished 3.2.1
+
+20/01
+04842866700-federl bank ecom faclity
+
+finished 3.3.3 video 2
+
+21/01
+
+finished 3.4.4 video 3
+
+22/01
+
+finished 4.2.3 video 2
+
+23/01
+finished 4.2.9
+start 5.1.1 from next day
+
+24/01
+finished 6.2.1 video 1
+
+25/01
+
+started 6.2.11 video 6
+power cut
+
+
+26/01
+finished 6.4.3 video 2
+
+27/01
+
+finished 6.4.9 R6
+
+28/01
+finished 7.3.3 video 2
+
+29/01
+finished 7.3.11 video 6
+
+30/01
+finished 8.1.1
+
+31/01
+
+finished..start excel
+
+01/02
+started beginner to pro excel data analysis
+video1 15min
+
+02/02
+finished video 
+
+03/02..............................................
+started new video
+data processing and analysis with excel:RIT,-edx
+started unit 1: data roles, statistics vs analytics
+
+04/02
+finished unit 2:preparing data for analysis/knowing the data
+
+06/02
+reached unit 2:preparing data for analysis/manipulating the data/parsing data
+
+07/02
+STARTED unit 3:data analysis,transforming data: verifying your work
+
+08/02
+start new excel video
+
+09/02
+started new video: analyzing data with excel,IBM:edx
+
+finished module1:intro to data analysis:video: using spreadhseets as a data analysis tool
+
+10/02
+finished module 2:getting started with excel spreadsheets:hands on lab4:simple use of functions
+
+11/02
+finished module 4:cleaning data:video:dealing with inconst in data
+
+12/02
+finished module5:video:filtering and sorting data in excel
+
+13/02
+finished hands on lab6:filtering and sorting data
+
+14/02
+finished hands on lab7...using pivot tables
+
+15/02
+finished..start sql
+
+-------------SQL-------------------------
+----------coursera sql for data science----------------------
+16/02
+create table shoes
+(Id char(10) PRIMARY KEY,
+ Brand char(10) NOT NULL,
+ Type char(250) NOT NULL,
+ Color char(250) NOT NULL,
+ Price decimal(8,2) NOT NULL,
+ Desc Varchar(750) NULL
+ );
+-----------------
+
+started sql for data science coursera
+started week1:video- creating temp tables
+-----------------------------------------------------
+17/02
+
+finished week2: advanced filtering IN,OR and NOT
+
+18/02
+
+wildcards- use %
+finished week 2: sql for various data science languages
+
+19/02
+finished week 3:cross joins
+
+20/02
+finished week 4: case statements
+
+22/02
+sql course-online
+finished beginner course-updating records
+
+23/02
+finished beginners and advanced
+
+----------------------------------------data sciense specialisation john hopkins:coursera-------------
+24/02
+finished coursera:data scientist toolbox: week 2:projects in R video
+
+25/02
+finished video: data scientist toolbox: week 4:experimental design
+
+26/02
+
+finished video: r programming:week 1:r console input and evaluation
+
+27/02
+finished video:week 1 :subsetting basics
+
+28/02
+
+--------------------------------started new video: introduction to data analytics:IBM:coursera-----part of IBM data analyst certificate-------
+started introduction to data analytics:week1:responsibilities of a data analyst
+
+01/03
+finished video week2:data marts,data lakes,etl
+
+02/03
+
+finished video week4:analyzing and mining data:overview of statistical analysis:
+
+03/03
+finished.. excel basics for data analysis:week1:hands on lab2:spreadsheet basics
+
+04/03
+
+finished excel basics for data analysis:week2:hands on lab4
+
+05/03
+finished week3:hands on lab 5
+
+06/03
+started week4:introduction to creating pivot tables
+
+07/03
+started week 5
+
+08/03
+finished IBM: excel basics for data analysis
+started udemy:excel
+started section 3: 14:working with numeric data in excel
+
+09/03
+
+
+
+
+finished section 4:working with min max function
+
+10/03
+finished video: google sheets for excel users
+
+11/03
+
+started section 5: renaming an excel sheet
+
+12/03
+finished section 7
+
+13/03
+started section 10
+
+14/03
+started section 15
+
+15/03
+started section 17
+
+16/03
+started section 18:drilling down into pivot
+
+17/03
+excel 102 practice exercise-01 orders(customer sort)...started
+
+
+18/03
+finished section 24:126
+
+19/03
+finished section 25:136
+
+20/03
+started section 29
+
+21/03
+finished section 30
+
+22/03
+started section 34
+
+23/03
+started upgrad:introduction to tableau
+data pills
+
+24/03
+started line charts and filters
+
+25/03
+started calculated fields
+
+26/03
+started joins and splits
+
+27/03
+started dashboards
+
+28/03
+finished upgrad video
+
+29/03
+started udemy complete:SQL from zero to mastery
+
+finished section3 17
+
+
+30/03
+finished DBMS revisited: section 3: 31
+
+31/03
+started section 5
+
+01/04
+
+
+02/04
+
+03/04
+
+started new video mysql: campusx 6hrs
+
+
+04/04
+
+07/04
+
+new video.. SQL for data analytics 2022:Simplilearn
+do: master using SQL with python youtube..  next
+
+1 hr
+
+08/04
+started new video
+master using SQL with python bryan caferky-youtube
+finished lesson 2
+
+09/04
+start new video coursera: data bases and sql for data science with python
+
+10/04
+started new video coursera: SQL for datascience with python
+finished hands on lab count,distinct,limit
+
+11/04
+started optional: hands on lab: create,alter,truncate
+
+12/04
+started week 3 using string patterns and ranges
+
+14/04
+started week3: sub queries and nested selects
+
+15/04
+started week 4: how to access databases using python
+
+16/04
+
+started week 5: working with real world datasets
+
+17/04
+week 5:hands on lab: working with real world datasets
+
+19/04
+finished video
+started new video: upgrad: learn database design with mysql
+introduction:SETL
+
+20/04
+started database creation in mysql workbench:DDL statements
+
+21/04
+started sql statements and operators
+
+22/04
+
+
+23/04
+started string and date functions
+
+24/03
+finished nested queries
+
+25/03
+started outer joins a demonstration
+
+26/03
+finished upgrad-SQL
+
+30/04
+
+started new video cisco-networking academy: python essentials 1
+started 2.5 section 5
+
+01/05
+started 3.3.3
+
+03/05
+
+started 4.2 section 2
+
+05/05
+started section 7
+
+06/05
+finished python 1 course
+
+
+07/05
+started nw video python 2
+started PE2 module 2, 2.5 section 5
+
+08/05
+started module 4 section 1
+
+09/05
+finished video
+
+10/05
+started cisco:data analytics essentials
+finished module 1, 1.3
